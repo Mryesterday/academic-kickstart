@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Xuanda Feng
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master of Systems Innovation
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: the University of Tokyo
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: I'm studying about the signals and systems and modern control theory
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Signals and Systems
+- Modern Control Theory
+- Embedded System
 
 education:
   courses:
